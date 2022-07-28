@@ -1,4 +1,5 @@
-# ELEC 374
+# ELEC 374 Course Project - Single-core Processor
+
 build the greatest processor ever
 
 Debugging with [icrarus verilog](http://iverilog.icarus.com/)
