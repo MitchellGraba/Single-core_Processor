@@ -9,14 +9,14 @@ Debugging with [icrarus verilog](http://iverilog.icarus.com/)
 - ~~Register~~
 - Bus(bidirectional?)
   - ~~Busmux~~
-  - 32 to 5 encoder
+  - ~~32 to 5 encoder~~
 - ~~Memory Data Register~~
 - ALU
   - ~~AND~~
   - ~~OR~~
-  - NOT
-  - ADD/SUB
+  - ~~NOT~~
+  - ~~ADD/SUB~~
      - ~~Carry lookahead~~
-  - MUL
-  - DIV
+  - ~~MUL~~
+  - ~~DIV~~ non-restoring
   
