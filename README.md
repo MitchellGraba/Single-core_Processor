@@ -19,5 +19,5 @@ Debugging with [icrarus verilog](http://iverilog.icarus.com/)
   - ~~ADD/SUB~~
   ~ ~~Carry lookahead~~
   - ~~MUL~~
-  - ~~DIV non-restoring
+  - ~~DIV non-(restoring)~~
   
