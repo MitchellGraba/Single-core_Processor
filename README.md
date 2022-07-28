@@ -12,12 +12,12 @@ Debugging with [icrarus verilog](http://iverilog.icarus.com/)
   - ~~Busmux~~
   - ~~32 to 5 encoder~~
 - ~~Memory Data Register~~
-- ALU
+- ~~ALU
   - ~~AND~~
   - ~~OR~~
   - ~~NOT~~
   - ~~ADD/SUB~~
-     - ~~Carry lookahead~~
+  ~ ~~Carry lookahead~~
   - ~~MUL~~
   - ~~DIV~~ non-restoring
   
