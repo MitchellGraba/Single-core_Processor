@@ -8,7 +8,7 @@ Debugging with [icrarus verilog](http://iverilog.icarus.com/)
 
 # Checklist
 - ~~Register~~
-- Bus(bidirectional?)
+- ~~Bus(bidirectional?)~~
   - ~~Busmux~~
   - ~~32 to 5 encoder~~
 - ~~Memory Data Register~~
