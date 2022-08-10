@@ -4,7 +4,7 @@ build the greatest processor ever
 
 Debugging with [icrarus verilog](http://iverilog.icarus.com/)
 
-TOP-LEVEL: Proc3.v
+TOP-LEVEL: proc3.v
 
 # Checklist
 - ~~Register~~
